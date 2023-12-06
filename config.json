@@ -1,6 +1,6 @@
 {
     "TOKEN": "",
-    "DB": "mongodb+srv://carbon:carbon@carbon.owjqdjc.mongodb.net/?retryWrites=true&w=majority",
+    "DB": "",
     "PREFIX": ".",
     "OWNER": [ "314599100811051008" ],
     "EmbedColor": "#2F3136",
