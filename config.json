@@ -1,14 +1,14 @@
 {
-    "TOKEN": "",
-    "DB": "",
-    "PREFIX": ".",
-    "OWNER": [ "314599100811051008" ],
+    "TOKEN": "YOUR BOT TOKEN",
+    "DB": "YOUR MONGO DB URL",
+    "PREFIX": "YOUR BOT PREFIX",
+    "OWNER": [ "YOUR USER ID" ],
     "EmbedColor": "#2F3136",
     "Danger": "#f03232",
     "Success": "#32a7f0",
 
-    "inviteURL": "https://discord.gg/8En3XHGQ",
-    "websiteURL": "https://discord.gg/8En3XHGQ",
-    "supportURL": "https://discord.gg/8En3XHGQ",
-    "topggURL": "https://discord.gg/8En3XHGQ"
+    "inviteURL": "YOUR BOT LINK",
+    "websiteURL": "YOUR WEBSITE LINK",
+    "supportURL": "YOUR SUPPORT SERVER URL",
+    "topggURL": "YOUR BOT TOP.GG VOTE URL"
 }
