@@ -1,5 +1,5 @@
 {
-    "TOKEN": "MTE4MTUxNDUyOTI0NzU5NjU3NQ.GrRNim.hiKE4R_SBaJzgCA4YiN8QOr33Cepb1aTj2Uxek",
+    "TOKEN": "",
     "DB": "mongodb+srv://carbon:carbon@carbon.owjqdjc.mongodb.net/?retryWrites=true&w=majority",
     "PREFIX": ".",
     "OWNER": [ "314599100811051008" ],
