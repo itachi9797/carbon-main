@@ -1,0 +1,14 @@
+{
+    "TOKEN": "MTE4MTUxNDUyOTI0NzU5NjU3NQ.GrRNim.hiKE4R_SBaJzgCA4YiN8QOr33Cepb1aTj2Uxek",
+    "DB": "mongodb+srv://carbon:carbon@carbon.owjqdjc.mongodb.net/?retryWrites=true&w=majority",
+    "PREFIX": ".",
+    "OWNER": [ "314599100811051008" ],
+    "EmbedColor": "#2F3136",
+    "Danger": "#f03232",
+    "Success": "#32a7f0",
+
+    "inviteURL": "https://discord.gg/8En3XHGQ",
+    "websiteURL": "https://discord.gg/8En3XHGQ",
+    "supportURL": "https://discord.gg/8En3XHGQ",
+    "topggURL": "https://discord.gg/8En3XHGQ"
+}
