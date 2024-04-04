@@ -1,5 +1,4 @@
 # Carbon
-Clone of Fastest Antinuke bot Aware 
 
 ## How to setup
 
