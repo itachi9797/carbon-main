@@ -5,7 +5,7 @@
 1. Clone the repository to the current directory
 
 ```powershell
-git clone https://github.com/sikey-dev/carbon-main
+git clone https://github.com/itachi9797/carbon-main
 ```
 
 2. Install all the dependencies
